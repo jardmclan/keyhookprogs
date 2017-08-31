@@ -1,3 +1,8 @@
 ﻿  saveClipboardImagesToFile.cpp
-  saveClipboardImagesToFile.vcxproj -> C:\Users\Jard\Desktop\saveClipboardImagesToFile\Debug\saveClipboardImagesToFile.exe
-  saveClipboardImagesToFile.vcxproj -> C:\Users\Jard\Desktop\saveClipboardImagesToFile\Debug\saveClipboardImagesToFile.pdb (Partial PDB)
+c:\users\jard\documents\github\keyhookprogs\saveclipboardimagestofile\saveclipboardimagestofile\saveclipboardimagestofile.cpp(14): warning C4114: same type qualifier used more than once
+c:\users\jard\documents\github\keyhookprogs\saveclipboardimagestofile\saveclipboardimagestofile\saveclipboardimagestofile.cpp(15): warning C4114: same type qualifier used more than once
+c:\users\jard\documents\github\keyhookprogs\saveclipboardimagestofile\saveclipboardimagestofile\saveclipboardimagestofile.cpp(16): warning C4114: same type qualifier used more than once
+c:\users\jard\documents\github\keyhookprogs\saveclipboardimagestofile\saveclipboardimagestofile\saveclipboardimagestofile.cpp(17): warning C4114: same type qualifier used more than once
+c:\users\jard\documents\github\keyhookprogs\saveclipboardimagestofile\saveclipboardimagestofile\saveclipboardimagestofile.cpp(18): warning C4114: same type qualifier used more than once
+  saveClipboardImagesToFile.vcxproj -> C:\Users\Jard\Documents\GitHub\keyhookprogs\saveClipboardImagesToFile\Debug\saveClipboardImagesToFile.exe
+  saveClipboardImagesToFile.vcxproj -> C:\Users\Jard\Documents\GitHub\keyhookprogs\saveClipboardImagesToFile\Debug\saveClipboardImagesToFile.pdb (Partial PDB)
